@@ -2267,3 +2267,15 @@ alias[trigger:num_ai_empires_setting] = int
 # 2.9
 
 #to be populated
+
+## scope = country
+###Iterate through each fleet owned by the country
+alias[trigger:count_owned_fleet] = {
+	## cardinality = 0..1
+	count = all
+	## cardinality = 0..1
+	count = int
+	## cardinality = 0..1
+	limit = { alias_name[trigger] = alias_match_left[trigger] }
+    
+}
