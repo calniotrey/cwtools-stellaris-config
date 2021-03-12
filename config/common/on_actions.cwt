@@ -2873,14 +2873,14 @@ on_action = {
         ## cardinality = 0..1
         events = {
             ## cardinality = 0..inf
-            <event.fleet>
+            <event.country>
         }
         ## cardinality = 0..1
         random_events = {
             ## cardinality = 0..inf
             int = 0
             ## cardinality = 0..inf
-            int = <event.fleet>
+            int = <event.country>
         }
     }
     ## replace_scope = { this = country root = country from = country }
@@ -2888,14 +2888,14 @@ on_action = {
         ## cardinality = 0..1
         events = {
             ## cardinality = 0..inf
-            <event.fleet>
+            <event.country>
         }
         ## cardinality = 0..1
         random_events = {
             ## cardinality = 0..inf
             int = 0
             ## cardinality = 0..inf
-            int = <event.fleet>
+            int = <event.country>
         }
     }
     ## replace_scope = { this = country root = country from = country }
@@ -2903,14 +2903,14 @@ on_action = {
         ## cardinality = 0..1
         events = {
             ## cardinality = 0..inf
-            <event.fleet>
+            <event.country>
         }
         ## cardinality = 0..1
         random_events = {
             ## cardinality = 0..inf
             int = 0
             ## cardinality = 0..inf
-            int = <event.fleet>
+            int = <event.country>
         }
     }
     ## replace_scope = { this = country root = country from = country }
@@ -2918,14 +2918,14 @@ on_action = {
         ## cardinality = 0..1
         events = {
             ## cardinality = 0..inf
-            <event.fleet>
+            <event.country>
         }
         ## cardinality = 0..1
         random_events = {
             ## cardinality = 0..inf
             int = 0
             ## cardinality = 0..inf
-            int = <event.fleet>
+            int = <event.country>
         }
     }
     ## replace_scope = { this = country root = country from = country }
@@ -2933,14 +2933,14 @@ on_action = {
         ## cardinality = 0..1
         events = {
             ## cardinality = 0..inf
-            <event.fleet>
+            <event.country>
         }
         ## cardinality = 0..1
         random_events = {
             ## cardinality = 0..inf
             int = 0
             ## cardinality = 0..inf
-            int = <event.fleet>
+            int = <event.country>
         }
     }
     ## replace_scope = { this = country root = country from = country }
@@ -2948,14 +2948,14 @@ on_action = {
         ## cardinality = 0..1
         events = {
             ## cardinality = 0..inf
-            <event.fleet>
+            <event.country>
         }
         ## cardinality = 0..1
         random_events = {
             ## cardinality = 0..inf
             int = 0
             ## cardinality = 0..inf
-            int = <event.fleet>
+            int = <event.country>
         }
     }
     ## replace_scope = { this = country root = country from = country }
@@ -2963,14 +2963,14 @@ on_action = {
         ## cardinality = 0..1
         events = {
             ## cardinality = 0..inf
-            <event.fleet>
+            <event.country>
         }
         ## cardinality = 0..1
         random_events = {
             ## cardinality = 0..inf
             int = 0
             ## cardinality = 0..inf
-            int = <event.fleet>
+            int = <event.country>
         }
     }
     ## replace_scope = { this = country root = country from = country }
@@ -2978,14 +2978,14 @@ on_action = {
         ## cardinality = 0..1
         events = {
             ## cardinality = 0..inf
-            <event.fleet>
+            <event.country>
         }
         ## cardinality = 0..1
         random_events = {
             ## cardinality = 0..inf
             int = 0
             ## cardinality = 0..inf
-            int = <event.fleet>
+            int = <event.country>
         }
     }
     ## replace_scope = { this = country root = country }
@@ -2993,14 +2993,14 @@ on_action = {
         ## cardinality = 0..1
         events = {
             ## cardinality = 0..inf
-            <event.fleet>
+            <event.country>
         }
         ## cardinality = 0..1
         random_events = {
             ## cardinality = 0..inf
             int = 0
             ## cardinality = 0..inf
-            int = <event.fleet>
+            int = <event.country>
         }
     }
     ## replace_scope = { this = country root = country }
@@ -3008,14 +3008,14 @@ on_action = {
         ## cardinality = 0..1
         events = {
             ## cardinality = 0..inf
-            <event.fleet>
+            <event.country>
         }
         ## cardinality = 0..1
         random_events = {
             ## cardinality = 0..inf
             int = 0
             ## cardinality = 0..inf
-            int = <event.fleet>
+            int = <event.country>
         }
     }
     ## replace_scope = { this = country root = country }
@@ -3023,14 +3023,14 @@ on_action = {
         ## cardinality = 0..1
         events = {
             ## cardinality = 0..inf
-            <event.fleet>
+            <event.country>
         }
         ## cardinality = 0..1
         random_events = {
             ## cardinality = 0..inf
             int = 0
             ## cardinality = 0..inf
-            int = <event.fleet>
+            int = <event.country>
         }
     }
     ## replace_scope = { this = country root = country }
@@ -3038,14 +3038,14 @@ on_action = {
         ## cardinality = 0..1
         events = {
             ## cardinality = 0..inf
-            <event.fleet>
+            <event.country>
         }
         ## cardinality = 0..1
         random_events = {
             ## cardinality = 0..inf
             int = 0
             ## cardinality = 0..inf
-            int = <event.fleet>
+            int = <event.country>
         }
     }
 }
